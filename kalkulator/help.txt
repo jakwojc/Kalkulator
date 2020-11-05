@@ -1,0 +1,11 @@
+	Prosty kalkulator
+Autor: Jakub Wojciechowski
+	Instrukcja:
+1.wpisz działanie
+2.przeczytaj wynik
+	Opcje:
+1.-n - zamiast kalkulatora wlacza sie kościany poker
+2.-h - pokazuje instrukcje obsługi, czyli to co właśnie czytasz
+3.-m - liczy mediane z podanych wartosci.
+4.-w - wyswietla historie dzialan
+5.-t - czysci historie dzialan
